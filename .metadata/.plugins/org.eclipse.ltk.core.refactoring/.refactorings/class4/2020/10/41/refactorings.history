@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;solution.Q8&apos; to &apos;Q9&apos;&#x0D;&#x0A;- Original project: &apos;class4&apos;&#x0D;&#x0A;- Original element: &apos;solution.Q8&apos;&#x0D;&#x0A;- Renamed element: &apos;solution.Q9&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Q8&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;solution{Q8.java[Q8" matchStrategy="1" name="Q9" qualified="false" references="true" similarDeclarations="false" stamp="1601922469856" textual="false" version="1.0"/>
+</session>
